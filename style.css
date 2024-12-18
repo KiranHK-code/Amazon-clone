@@ -13,12 +13,10 @@
     gap: 120px;
 }
 .amaze{
-    background-image: url('amazon-logo.jpeg');
-    height: 40px;
+    margin: 0%;
+    padding-bottom: 15px;
+    height: 35px;
     width: 90px;
-    background-size: contain;
-    object-fit: contain;
-    padding: 7px;
     font-size: 60px;
 }
 .locate{
@@ -383,6 +381,7 @@
     border-top: 1.5px solid rgb(183, 178, 178);
     background-color: #333333;
     display: flex;
+    justify-content: center;
     align-items: center;
     gap: 30px;
 }
@@ -390,6 +389,11 @@
     color: #333333;
     background-color: #333333;
     padding-left: 30px;
+}
+.eng{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
