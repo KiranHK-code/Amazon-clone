@@ -1,2 +1,2 @@
 # Amazon-clone
-Front End project using HTML,CSS,Javascript
+Front End project using HTML,CSS
