@@ -1,5 +1,7 @@
 #Amazon Clone
 
+Main file is Amazon.html
+
 This is a simple Amazon Clone built using HTML and CSS. It is a static website that mimics the design and layout of Amazon's homepage.
 
 Features
